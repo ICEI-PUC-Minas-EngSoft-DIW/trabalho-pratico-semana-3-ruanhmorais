@@ -8,17 +8,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Ruan Henrique Rodrigues de Morais
+- Matricula: 902434
+- Proposta de projeto escolhida: Proposta 1, Pessoa
+- Breve descrição sobre seu projeto: Meu projeto é um site informativo sobre o jogador de futebol Cristiano Ronaldo.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![Print do Wireframe](public/printwire.jpg)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print da home-page](public/printhomepage.png)
